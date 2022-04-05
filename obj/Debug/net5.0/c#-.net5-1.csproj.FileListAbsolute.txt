@@ -1,0 +1,15 @@
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/c#-.net5-1.deps.json
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/c#-.net5-1.runtimeconfig.json
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/c#-.net5-1.runtimeconfig.dev.json
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/c#-.net5-1.dll
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/ref/c#-.net5-1.dll
+/Users/emilymorgenbesser/code/c#-.net5-1/bin/Debug/net5.0/c#-.net5-1.pdb
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.csproj.AssemblyReference.cache
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.AssemblyInfoInputs.cache
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.AssemblyInfo.cs
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.csproj.CoreCompileInputs.cache
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.dll
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/ref/c#-.net5-1.dll
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.pdb
+/Users/emilymorgenbesser/code/c#-.net5-1/obj/Debug/net5.0/c#-.net5-1.genruntimeconfig.cache
